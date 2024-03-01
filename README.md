@@ -3,3 +3,5 @@ Within your IDE, if starting from absolute scratch, navigate to where you want t
 Once there, run "npm start" to begin the application server.
 
 Adding the NestedButtons.js, App.css, and the App.js from the repo to the "src" branch of the project should allow this project to run locally. 
+
+![Event Propagation Assignment 1](https://github.com/nwm516/nested_button_clicks/assets/36825393/57171a28-e7f3-4232-beaa-86317189fbe2)
